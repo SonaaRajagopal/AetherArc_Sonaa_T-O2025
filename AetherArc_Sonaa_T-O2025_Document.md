@@ -50,4 +50,4 @@ Works offline / low-connectivity — critical for real-world adoption
 
 10. 2-Day Hackathon Implementation Plan
 
-Link to Prototype: https://drive.google.com/file/d/1iT7pnoDaqNqhc4r5FkmCGxiUHVQlL\_cV/view?usp=sharing
+Link to Prototype: https://drive.google.com/file/d/1nxav7tasZQaB2BJWIsqYwBNuarUuhwhh/view?usp=sharing
