@@ -30,6 +30,4 @@ The project documentation is available in PDF, markdown file format:
 For questions or inquiries about the **T$O2025** project, please connect with the Aether Arc team on LinkedIn:  
 - [**Muralikrishnan Mani**](https://www.linkedin.com/in/muralikrishnanmani)  
 - [**Sonaa Rajagopal**](https://www.linkedin.com/in/sonaa-rajagopal-893480250)
----
 
-*Last updated: June 16, 2025*
