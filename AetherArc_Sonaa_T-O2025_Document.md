@@ -48,6 +48,12 @@ Drag-and-drop visual instructions for daily tasks
 Dual-user system (User + Caregiver)
 Works offline / low-connectivity — critical for real-world adoption
 
-10. 2-Day Hackathon Implementation Plan
+10. 2-Day Hackathon Implementation Plan:
+Time	Task
+Day 1 – AM	Set up Flutter frontend, Firebase backend, auth flow
+Day 1 – PM	Build voice recording & reminder engine (time/location)
+Day 2 – AM	Integrate LangChain-based summarizer + checklist builder
+Day 2 – PM	Caregiver dashboard (basic log viewer), wrap + pitch deck
+
 
 Link to Prototype: https://drive.google.com/file/d/1nxav7tasZQaB2BJWIsqYwBNuarUuhwhh/view?usp=sharing
