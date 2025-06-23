@@ -17,11 +17,11 @@ The pitch video provides an overview of the **T$O2025** project. You can watch i
 
 The project documentation is available in PDF, markdown file format:
 
-- **Document Name**: AetherArc_Sonaa_T$O2025_Document.pdf
+1. - **Document Name**: AetherArc_Sonaa_T$O2025_Document.pdf
 - **Format**: PDF  
 - **Location**:  `AetherArc_Sonaa_T-O2025_Document.pdf`
 
-**Document Name**: AetherArc_Sonaa_T$O2025_Document.md
+2. - **Document Name**: AetherArc_Sonaa_T$O2025_Document.md
 - **Format**: Markdown File
 - **Location**:  `AetherArc_Sonaa_T-O2025_Document.md`
 
