@@ -1,6 +1,4 @@
-Sure! Here's your content reformatted with **each heading and its paragraph starting on a new line**, making it clean and GitHub-friendly for `.md` files or readability:
 
----
 
 # **Loopy – An AI-Assisted Memory Companion**
 
